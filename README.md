@@ -7,4 +7,6 @@ Saya Muhammad Cahyana Bintang Fajar NIM 2102665 mengerjakan LP9 dalam mata kulia
 
 
 ## Dokumentasi
-![gif](https://user-images.githubusercontent.com/95915887/233846343-0da0941e-c8b4-424d-97e5-b449ae528b93.gif)
+![dokumentasi coba db py](https://github.com/bintangfajarr/LP9DPBO2023C1/assets/95915887/055d6a31-95f3-401f-8ef9-01ac17012ee5)
+
+![dokumentasi](https://github.com/bintangfajarr/LP9DPBO2023C1/assets/95915887/58c0a297-fc8c-4f3e-b2d5-8d0a306750bc)
