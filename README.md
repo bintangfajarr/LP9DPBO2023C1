@@ -1,4 +1,4 @@
-# LP7C1DPBO2023
+# LP9DPBO2023C1
 ## Janji 
 Saya Muhammad Cahyana Bintang Fajar NIM 2102665 mengerjakan LP9 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
