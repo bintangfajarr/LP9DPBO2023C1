@@ -4,7 +4,10 @@ Saya Muhammad Cahyana Bintang Fajar NIM 2102665 mengerjakan LP9 dalam mata kulia
 
 ## Alur Program
 
-
+- Masuk landing page.
+- Klik button 'Main Page' lalu akanMuncul list hunian.
+- User dapat melihat detail hunian dari spesifik orang dengan menekan tombol 'Details'.
+- User dapat keluar dari program dengan mengklik tanda 'X' atau tombol 'Exit'.
 
 ## Dokumentasi
 ### coba db py
